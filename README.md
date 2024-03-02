@@ -1,5 +1,3 @@
-# NVIDIA GPU Shader Cache Cleaner
- .cmd script to easily wipe NVIDIA GPU shader cache
 .cmd script to easily wipe GPU shader cache, requires IObit Unlocker installed (https://www.iobit.com/en/iobit-unlocker.php)
 
 It's free and has full functionality for all NVIDIA GPUs.
