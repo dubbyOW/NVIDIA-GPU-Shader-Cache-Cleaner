@@ -9,4 +9,4 @@ Just be aware that if you do that, then some games might have to compile shaders
 
 HOW TO USE:
 1. Download and install IObit Unlocker.
-2. Download .cmd script then right click on the script file and choose "Run as administrator".
+2. Download .cmd script (https://github.com/dubbyOW/NVIDIA-GPU-Shader-Cache-Cleaner/releases/download/nvidia/Clear.Shader.Cache.cmd) then right click on the script file and choose "Run as administrator".
